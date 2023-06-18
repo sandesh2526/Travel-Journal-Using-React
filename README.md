@@ -2,7 +2,7 @@
 
 ## Creating the project
 
-You can clone project and build the project using ```npm install``` which will add pull all the required dependencies. 
+You can clone project and build the project using ```npm install``` which will add pull all the required dependencies.
 
 Then you can run the project using the ```npm start``` which will load the project.
 
