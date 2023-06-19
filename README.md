@@ -7,8 +7,7 @@ You can clone project and build the project using ```npm install``` which will a
 Then you can run the project usin
 g the ```npm start``` which will load the project.
 
-![image](![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-)
+![image of project](./Travel_Journal.jpg)
 
 ## The Project
 
