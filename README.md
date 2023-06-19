@@ -7,7 +7,7 @@ You can clone project and build the project using ```npm install``` which will a
 Then you can run the project usin
 g the ```npm start``` which will load the project.
 
-![image](./src/Travel_Jornal.png)
+![image](./Travel_Jornal.png)
 
 ## The Project
 
